@@ -49,7 +49,7 @@ Prepare the DevKit device
 If you've previously used the device and want to reconfigure it to use a different WiFi network, connection string, or telemetry measurement, press both the A and B buttons at the same time. If it doesn't work, press Reset button and try again.
 
 To prepare the DevKit device
-Download the latest **AmoebaBot-IoT-Central-1.31.bin** Azure IoT Central firmware for the MXChip from the firmware folder on GitHub.
+Download the latest **AmoebaBot-IoT-Central-1.4-Beta.bin** Azure IoT Central firmware for the MXChip from the firmware folder on GitHub.
 
 Connect the DevKit device to your development machine using a USB cable. In Windows, a file explorer window opens on a drive mapped to the storage on the DevKit device. For example, the drive might be called AZ3166 (D:).
 
