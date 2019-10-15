@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-Deploy IoT Central Application via the following URL (use Chrome):  https://apps.azureiotcentral.com/create?appTemplate=0d77c0a5-1b74-4846-911b-804656e96bd7
+Deploy IoT Central Application via the following URL (use Chrome): https://apps.azureiotcentral.com/create?appTemplate=befc637b-228e-464c-a379-a6b4bf73fc23
 
 
  ![](images/iotcentralstarter.png)
